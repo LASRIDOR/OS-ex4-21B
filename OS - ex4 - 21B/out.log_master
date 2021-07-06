@@ -1,0 +1,72 @@
+main thread created all producer threads
+main thread created all consumer threads
+producer #3:  adding product 1643
+producer #1:  adding product 329
+producer #2:  adding product 129
+producer #3:  adding product 2479
+producer #1:  adding product 3481
+producer #2:  adding product 87
+producer #3:  adding product 589
+producer #1:  adding product 2993
+producer #2:  adding product 74
+producer #3:  adding product 1577
+consumer #1 just got item (status UNDONE): 1577
+consumer #2 just got item (status UNDONE): 74
+consumer #3 just got item (status UNDONE): 2993
+consumer #4 just got item (status UNDONE): 589
+producer #1:  adding product 3481
+producer #2:  adding product 119
+consumer #1 just got item (status UNDONE): 119
+producer #3:  adding product 39
+consumer #2 just got item (status UNDONE): 39
+consumer #3 just got item (status UNDONE): 3481
+consumer #4 just got item (status UNDONE): 87
+producer #1:  adding product 1247
+consumer #1 just got item (status UNDONE): 1247
+producer #2:  adding product 1541
+consumer #2 just got item (status UNDONE): 1541
+producer #3:  adding product 6557
+consumer #3 just got item (status UNDONE): 6557
+consumer #4 just got item (status UNDONE): 3481
+consumer #1 just got item (status UNDONE): 2479
+producer #1:  adding product 583
+consumer #2 just got item (status UNDONE): 583
+consumer #1 just got item (status UNDONE): 129
+consumer #3 just got item (status UNDONE): 329
+producer #2:  adding product 141
+producer #2 is done
+consumer #4 just got item (status UNDONE): 141
+consumer #4 is done
+producer #1:  adding product 767
+consumer #2 just got item (status UNDONE): 1643
+consumer #2 is done
+producer #1 is done
+producer #3:  adding product 589
+producer #3 is done
+all producers terminated
+consumer #1 just got item (status UNDONE): 589
+consumer #1 is done
+consumer #3 just got item (status UNDONE): 767
+consumer #3 is done
+all consumers terminated
+main thread created all consumer threads
+product:    589 =    19 X    31  status: = DONE
+product:    767 =    13 X    59  status: = DONE
+product:    141 =     3 X    47  status: = DONE
+product:    583 =    11 X    53  status: = DONE
+product:   6557 =    79 X    83  status: = DONE
+product:   1541 =    23 X    67  status: = DONE
+product:   1247 =    29 X    43  status: = DONE
+product:     39 =     3 X    13  status: = DONE
+product:    119 =     7 X    17  status: = DONE
+product:   3481 =    59 X    59  status: = DONE
+product:   1577 =    19 X    83  status: = DONE
+product:     74 =     2 X    37  status: = DONE
+product:   2993 =    41 X    73  status: = DONE
+product:    589 =    19 X    31  status: = DONE
+product:     87 =     3 X    29  status: = DONE
+product:   3481 =    59 X    59  status: = DONE
+product:   2479 =    37 X    67  status: = DONE
+product:    129 =     3 X    43  status: = DONE
+product:    329 =     7 X    47  status: = DONE
+product:   1643 =    31 X    53  status: = DONE
